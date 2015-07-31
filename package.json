@@ -1,0 +1,37 @@
+{
+  "name": "findDeepKey",
+  "version": "0.1.0",
+  "description": "A node module to find an object with his key with deep research",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/radjivC/findDeepKey.git"
+  },
+  "keywords": [
+    "find",
+    "key",
+    "deepResearch",
+    "deep",
+    "search"
+  ],
+  "author": {
+    "name": "radjivf",
+    "email": "carrereradjiv@yahoo.fr",
+    "personal-website": "about.me/radjivf"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/radjivC/findDeepKey/issues"
+  },
+  "dependencies": {
+    "lodash": "^3.10.0"
+  },
+  "main": "./lib/findDeepKey.js",
+  "files": [
+    "LICENSE",
+    "README.md"
+  ],
+  "homepage": "https://github.com/radjivC/findDeepKey",
+  "_id": "findDeepKey@0.1.0",
+  "readme": "",
+  "readmeFilename": "README.md"
+}
